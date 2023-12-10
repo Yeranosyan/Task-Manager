@@ -11,6 +11,12 @@ For data management, I utilized Prisma along with MongoDB. This combination ensu
 
 Thank you for your support!
 
+![add-tasks](https://github.com/Yeranosyan/Task-Manager/assets/120154377/b2d993a8-e32f-4b1a-9da2-b294805d7222)
+![home](https://github.com/Yeranosyan/Task-Manager/assets/120154377/90421874-cba4-4d12-b13c-63b025a8a71e)
+![create-task](https://github.com/Yeranosyan/Task-Manager/assets/120154377/b068c955-a544-4e29-811b-a546a80e80da)
+![tablet](https://github.com/Yeranosyan/Task-Manager/assets/120154377/88ea3aec-f1c7-4523-845c-364ce92078da)
+![mobile](https://github.com/Yeranosyan/Task-Manager/assets/120154377/68b4ba00-0d6a-4387-ac15-80c4cbdfbdc4)
+
 ## Start Application:
 
 - npm i styled-components
